@@ -3,7 +3,6 @@
 <html>
 <head>
     <title>Add Project</title>
-
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -11,7 +10,6 @@
             margin: 0;
             padding: 0;
         }
-
         .container {
             width: 50%;
             margin: 50px auto;
@@ -20,7 +18,6 @@
             border-radius: 10px;
             box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
         }
-
         h2 {
             text-align: center;
             color: #333;
